@@ -8,7 +8,7 @@ Setup User Configuration
 
 First thing to do is to setup your identity.
 
-    $ git config --global user.name "Your Name"
+    $ git config --global user.name "Pandey Ji Ka Ladka"
     $ git config --global user.email your.email@example.com
     
 Initialize your Repository!
@@ -35,7 +35,7 @@ Moving your changes to Staging Area
 
 After you are done with your changes, you can add those changes to Staging Area.
 
-    $ git add "filename"
+    $ git add "pandey ji on duty bajaye seeti"
     
 For adding all the files in the current directory
 
@@ -47,7 +47,7 @@ Committing
 You are now ready to commit. The `-m` flag allows you to enter a message
 to go with the commit at the same time.
 
-    $ git commit -m "I am adding two new files"
+    $ git commit -m "2 file kamitva"
     
 Log
 ---
